@@ -8,13 +8,12 @@
 
 ## 🚀 Featured Projects
 
-### [3D Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation]([https://github.com/zixiangtong/stereo-aldic](https://www.researchsquare.com/article/rs-5507109/v1))
-- Developed a **stereo-augmented Lagrangian DIC method** for high-accuracy 3D displacement measurement.  
-- Focused on **high-temperature**, **high-rate**, and **high-pressure** environments.
+### [3D Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation](https://www.researchsquare.com/article/rs-5507109/v1)
+- Developed an **advanced, robust, and user-friendly open-source stereo-DIC method** for high-accuracy 3D displacement measurement.  
+- Focused on **complex geometry**, **large deformation**, and **complex real biological tissue** challenges.
 
-### [Hextech Game Design](https://github.com/zixiangtong/hextech)
-- Designed a **Hextech-themed game season** introducing unique gameplay mechanics and fantasy Hextech items.  
-- Improved player engagement with **rideable Hextech Baron** and **strategic item integration**.
+### [XXX](https://github.com/zixiangtong/hextech)
+- 
 
 ---
 
