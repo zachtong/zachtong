@@ -6,14 +6,27 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Publications
 
 ### [3D Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation](https://www.researchsquare.com/article/rs-5507109/v1)
 - Developed an **advanced, robust, and user-friendly open-source stereo-DIC method** for high-accuracy 3D displacement measurement.  
 - Focused on **complex geometry**, **large deformation**, and **complex real biological tissue** challenges.
 
 ### [XXX](https://github.com/zixiangtong/hextech)
+-
+-
+
+---
+
+## 🚀 Ongoing Projects
+
+### [Stereo-DIC Challenge 2.0](link)
 - 
+- 
+
+### [DVC Challenges 2.0](link)
+-
+-
 
 ---
 
@@ -25,10 +38,7 @@
   - **Computer Vision**: OpenCV, PyTorch  
   - **Data Analysis**: NumPy, Pandas, Matplotlib  
   - **High-Pressure Systems Research**  
-- **Core Concepts**: Experimental Mechanics, DIC, Fracture Mechanics, Game Design
-
----
-
+- **Core Concepts**: DIC/DVC, Experimental Mechanics, Fracture Mechanics
 
 ---
 
