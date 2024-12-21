@@ -43,7 +43,7 @@
 
 ## 🎨 Fun Facts
 
-- 🐱 Proud parent of two adorable emotional support cats.  ![图片描述](images/filename.png)
+- 🐱 Proud parent of two adorable emotional support cats.  ![图片描述](images/IMG_9302.JPG)
 - 🎹 Recently started learning the **electronic piano**.  
 - 🏖 Favorite vacation spot: Venice Beach, California.  
 - 🎮 Gaming enthusiast with a passion for **lightweight and accessible game mechanics**.
