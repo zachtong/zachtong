@@ -1,6 +1,6 @@
 # Hi, I'm Zixiang Tong, or call me Zach :) 👋
 
-🎓 **PhD student in Engineering Mechanics** at UT Austin ![image](https://github.com/user-attachments/assets/02fbd54a-eaba-4830-97dd-7ae7f683a5d2)
+🎓 **PhD student in Engineering Mechanics** at UT Austin <img src="https://github.com/user-attachments/assets/02fbd54a-eaba-4830-97dd-7ae7f683a5d2" alt="image description" width="300" />
 🧪 Expanding **Digital Image/Volume Correlation (DIC/DVC)** technology under extremely challenging conditions  
 🌍 Passionate about **measurement technologies, solid experimental mechanics**   
 
