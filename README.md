@@ -43,9 +43,9 @@
 
 ## 🎨 Fun Facts
 
-- 🐱 Proud parent of two adorable emotional support cats.  <img src="./image/IMG_9302.JPG" alt="描述" width="300"> 
+- 🐱 Proud parent of two adorable kittens.
+  <img src="./image/IMG_9302.JPG" alt="描述" width="300">   <img src="./image/IMG_9379.JPG" alt="描述" width="300"> 
 - 🎹 Recently started learning the **electronic piano**.  
-- 🏖 Favorite vacation spot: Venice Beach, California.  
 - 🎮 Gaming enthusiast with a passion for **lightweight and accessible game mechanics**.
 
 ---
@@ -59,17 +59,10 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/zixiangtong](https://www.linkedin.com/in/zixiangtong/)  
-- **Email**: zixiangtong@example.com  
-- **Website**: [zixiangtong.com](https://zixiangtong.com) *(if applicable)*
-
----
-
-## 🌱 Current Goals
-
-- Advance **stereo-DIC techniques** for real-world applications.  
-- Complete ongoing **game design experiments** with a focus on accessibility.  
-- Learn and master **piano performance basics**.
+- **LinkedIn**: [linkedin.com/in/zixiangtong](https://www.linkedin.com/in/zixiang-tong-0606ba29a/)
+- **ResearchGate**: [ResearchGate](https://www.researchgate.net/profile/Zixiang-Tong)
+- **Email**: zachtong@utexas.edu
+- **Our group website**: [Yang group](https://sites.utexas.edu/yang/) 
 
 ---
 
