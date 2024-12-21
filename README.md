@@ -1,6 +1,6 @@
-# Hi, I'm Zixiang Tong, or call me Zach :) 👋
+# Hi, I'm Zixiang Tong, or call me Zach 👋
 
-🎓 **PhD student in Engineering Mechanics** at UT Austin <img src="https://github.com/user-attachments/assets/02fbd54a-eaba-4830-97dd-7ae7f683a5d2" alt="image description" width="100" /> <br>
+🎓 **PhD student in Engineering Mechanics** at UT Austin <img src="https://github.com/user-attachments/assets/02fbd54a-eaba-4830-97dd-7ae7f683a5d2" alt="image description" width="30" /> <br>
 🧪 Expanding **Digital Image/Volume Correlation (DIC/DVC)** technology under extremely challenging conditions  
 🌍 Passionate about **measurement technologies, solid experimental mechanics**   
 
@@ -32,7 +32,7 @@
 
 - 🐱 Proud parent of two adorable kittens.
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="./image/IMG_9302.JPG" alt="描述" style="width: 45%; max-width: 300px; height: auto;">
+    <img src="./image/IMG_9302.JPG" alt="描述" style="width: 45%; max-width: 150px; height: auto;">
   </div>
 - 🎹 Recently started learning the **electronic piano**.  
 - 🎮 Avid gamer who enjoys **Baldur's Gate 3**, **The Legend of Zelda**, **The Witcher 3**, and **Hollow Knight**.
