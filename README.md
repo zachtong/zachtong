@@ -1,6 +1,6 @@
 # Hi, I'm Zixiang Tong, or call me Zach 👋
 
-🎓 **PhD student in Engineering Mechanics** at UT Austin <img src="https://github.com/user-attachments/assets/02fbd54a-eaba-4830-97dd-7ae7f683a5d2" alt="image description" width="30" /> <br>
+<img src="https://github.com/user-attachments/assets/02fbd54a-eaba-4830-97dd-7ae7f683a5d2" alt="image description" width="25" /> **PhD student in Engineering Mechanics** at UT Austin  <br>
 🧪 Expanding **Digital Image/Volume Correlation (DIC/DVC)** technology under extremely challenging conditions  
 🌍 Passionate about **measurement technologies, solid experimental mechanics**   
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Featured Publications
 
-### [3D Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation (3D-ALDIC)](https://www.researchsquare.com/article/rs-5507109/v1)
+### [3D-ALDIC: 3D Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation](https://www.researchsquare.com/article/rs-5507109/v1)
 - Developed an **advanced, robust, and user-friendly open-source stereo-DIC method** for high-accuracy 3D displacement measurement.  
 - Focused on **complex geometry**, **large deformation**, and **complex real biological tissue** challenges.
 
