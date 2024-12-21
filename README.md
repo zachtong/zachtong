@@ -52,17 +52,18 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zixiangtong&show_icons=true&theme=radical)  
+[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachtong)](https://github.com/zachtong/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zixiangtong&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/zixiangtong](https://www.linkedin.com/in/zixiang-tong-0606ba29a/)
+- **LinkedIn**: [linkedin.com/in/ZixiangTong](https://www.linkedin.com/in/zixiang-tong-0606ba29a/)
 - **ResearchGate**: [ResearchGate](https://www.researchgate.net/profile/Zixiang-Tong)
+- **Google Scholar**: [Googlescholar](https://scholar.google.com/citations?user=6xlr4lsAAAAJ&hl=zh-CN&authuser=1)
+- **Our group website**: [Yang group](https://sites.utexas.edu/yang/)
 - **Email**: zachtong@utexas.edu
-- **Our group website**: [Yang group](https://sites.utexas.edu/yang/) 
 
 ---
 
