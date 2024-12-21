@@ -31,9 +31,12 @@
 ## 🎨 Fun Facts
 
 - 🐱 Proud parent of two adorable kittens.
-- <img src="./image/IMG_9302.JPG" alt="描述" width="300">   <img src="./image/IMG_9379.JPG" alt="描述" width="300"> 
+- <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="./image/IMG_9302.JPG" alt="描述" style="width: 45%; max-width: 300px; height: auto;">
+    <img src="./image/IMG_9379.JPG" alt="描述" style="width: 45%; max-width: 300px; height: auto;">
+  </div>
 - 🎹 Recently started learning the **electronic piano**.  
-- 🎮 Gaming enthusiast with a passion for **lightweight and accessible game mechanics**.
+- 🎮 Avid gamer who enjoys **Baldur's Gate 3**, **The Legend of Zelda**, **The Witcher 3**, and **Hollow Knight**.
 
 ---
 
@@ -44,12 +47,6 @@
 - **Google Scholar**: [Googlescholar](https://scholar.google.com/citations?user=6xlr4lsAAAAJ&hl=zh-CN&authuser=1)
 - **Our group website**: [Yang group](https://sites.utexas.edu/yang/)
 - **Email**: zachtong@utexas.edu
-
----
-## 📈 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zachtong)](https://github.com/zachtong/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachtong&layout=compact&theme=radical)
 
 ---
 Thanks for visiting my profile! Feel free to explore my projects and reach out if you're interested in collaborating! ✨
