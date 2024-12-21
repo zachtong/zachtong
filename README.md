@@ -31,9 +31,9 @@
 ## 🎨 Fun Facts
 
 - 🐱 Proud parent of two adorable kittens.
-- <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="./image/IMG_9302.JPG" alt="描述" style="width: 45%; max-width: 300px; height: auto;">
-    <img src="./image/IMG_9379.JPG" alt="描述" style="width: 45%; max-width: 300px; height: auto;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="./image/IMG_9302.JPG" alt="描述" style="width: 45%; max-height: 300px; width: auto;">
+    <img src="./image/IMG_9379.JPG" alt="描述" style="width: 45%; max-height: 300px; width: auto;">
   </div>
 - 🎹 Recently started learning the **electronic piano**.  
 - 🎮 Avid gamer who enjoys **Baldur's Gate 3**, **The Legend of Zelda**, **The Witcher 3**, and **Hollow Knight**.
