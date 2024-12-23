@@ -35,7 +35,6 @@
     <img src="./image/IMG_9302.JPG" alt="描述" style="width: 45%; max-width: 150px; height: auto;">
   </div>
 - 🎹 Recently started learning the **electronic piano**.  
-- 🎮 Avid gamer who enjoys **Baldur's Gate 3**, **The Legend of Zelda**, **The Witcher 3**, and **Hollow Knight**.
 
 ---
 
