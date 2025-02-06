@@ -8,7 +8,7 @@
 
 ## 📄 Curriculum Vitae (CV)
 You can download my full CV here:  
-📌 [**Download CV (PDF)**](https://github.com/zachtong/zachtong/blob/main/CV_ZixiangTong.pdf?raw=true)
+📌 [**Download CV (PDF)**](https://github.com/zachtong/zachtong/blob/main/CV_ZixiangTong.pdf)
 
 ---
 
