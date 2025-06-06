@@ -27,6 +27,9 @@ You can download my full CV here:
 ## 🎤 Conferences & Presentations
 
 ### **Upcoming Conferences**
+- **None.**
+  
+### **Past Conferences**
 - **[SEM Annual Conference 2025](https://sem.org/annual) (Milwaukee, WI, USA)**
   - **Talk:** "3D Stereo-ALDIC"  
   - **Date:** June 2-5, 2025  
@@ -36,8 +39,7 @@ You can download my full CV here:
   - **Talk:** "Advancing Digital Image Correlation for Biomechanical Applications"  
   - **Date:** June 3-6, 2024  
   - **Session:** DIC/DVC Methods
-  
-### **Past Conferences**
+    
 - **[SEM Annual Conference 2024](https://sem.org/ev_calendar_day.asp?date=2024-06-06&eventid=37) (Vancouver, WA, USA)**
   - **Talk:** "Exploring the Interplay of Alveolar Mechanics and Fluid Accumulation in Pulmonary Edema: Insights from Soft Metamaterials 3D Printing and Mechanical Testing"  
   - **Date:** June 3-6, 2024  
