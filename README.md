@@ -1,4 +1,4 @@
-# Hi, I'm Zixiang Tong or Zach 👋
+# Hi, I'm Zixiang Tong or call me Zach 👋
 
 <img src="https://github.com/user-attachments/assets/02fbd54a-eaba-4830-97dd-7ae7f683a5d2" alt="image description" width="25" /> **PhD student in Engineering Mechanics** at UT Austin  <br>
 🧪 Expanding **Digital Image/Volume Correlation (DIC/DVC)** technology under extremely challenging conditions  
@@ -58,6 +58,9 @@ You can download my full CV here:
 ### [DVC Challenges 2.0](https://idics.org/challenge/)
 - I am currently serving as an assistant for DVC Challenge 2.0, focusing on coordination, data organization, and paper writing.
 
+### [Machine-learning DIC method]
+- I am also developing an ML-based DIC method.
+  
 ---
 
 ## 📫 Get in Touch
