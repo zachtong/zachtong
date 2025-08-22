@@ -27,7 +27,10 @@ You can download my full CV here:
 ## 🎤 Conferences & Presentations
 
 ### **Upcoming Conferences**
-- **None.**
+- **[TECHCON 2025]([https://sem.org/annual](https://www.src.org/calendar/e007206/)) (Austin, TX, USA)**
+  - **Talk:** "3D Stere-ALDIC for High-Precision Full-field Deformation Characterization in Semiconductor Materials"  
+  - **Date:** Sep. 7-10, 2025  
+  - **Session:** Smart Sensing – The Analog Data Deluge
   
 ### **Past Conferences**
 - **[SEM Annual Conference 2025](https://sem.org/annual) (Milwaukee, WI, USA)**
