@@ -38,7 +38,7 @@ You can download my full CV here:
   - **Date:** June 2-5, 2025  
   - **Session:** Advancement of Optical Methods in Experimental Mechanics
   
-- **[IMAC-XLIII](https://sem.org/imac) (Orlando, FL, USA)**
+- **[IMAC-XLIII 2025](https://sem.org/imac) (Orlando, FL, USA)**
   - **Talk:** "Advancing Digital Image Correlation for Biomechanical Applications"  
   - **Date:** June 3-6, 2024  
   - **Session:** DIC/DVC Methods
