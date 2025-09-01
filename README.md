@@ -1,4 +1,4 @@
-![Demo video](images/stereo-ALDIC_demo.gif)
+![Demo video](image/stereo-ALDIC_demo.gif)
 
 
 # Hi, I'm Zixiang Tong or call me Zach 👋
