@@ -17,7 +17,7 @@ You can download my full CV here:
 
 ## 🚀 Featured Publications
 
-### [3D-ALDIC: 3D Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation](https://www.researchsquare.com/article/rs-5507109/v1)
+### [3D-ALDIC: 3D Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation](https://doi.org/10.1007/s11340-025-01225-7)
 - Developed an **advanced, robust, and user-friendly open-source stereo-DIC method** for high-accuracy 3D displacement measurement.  
 - Focused on **complex geometry**, **large deformation**, and **complex real biological tissue** challenges.
 
