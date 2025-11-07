@@ -33,6 +33,11 @@ You can download my full CV here:
 - None
   
 ### **Past Conferences**
+- **[iDICs 2025](https://web.cvent.com/event/549f7a26-038b-4e57-955f-00d8bf0572d2/summary) (Alexandria, VA, USA)**
+  - **Talk:** "RAFTcorr: An Open-Source, Deep Learning Digital Image Correlation Framework for Dense Displacement Measurement"  
+  - **Date:** Nov. 4-6, 2025  
+  - **Session:** DIC/DVC Algorithms Improvement
+
 - **[TECHCON 2025](https://www.src.org/calendar/e007206/) (Austin, TX, USA)**
   - **Talk:** "3D Stere-ALDIC for High-Precision Full-field Deformation Characterization in Semiconductor Materials"  
   - **Date:** Sep. 7-10, 2025  
