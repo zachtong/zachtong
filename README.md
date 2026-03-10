@@ -170,6 +170,7 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 ## Ongoing Research
 
 - **ML-DIC** — Developing a machine learning-based DIC method (current main research focus)
+- **Fracture Mechanics + DIC** — Integrating DIC with fracture mechanics for crack characterization
 - [**Stereo-DIC Challenge 2.0**](https://idics.org/challenge/) — Participating with 3D-ALDIC method
 - [**DVC Challenge 2.0**](https://idics.org/challenge/) — Serving as assistant for coordination, data organization, and paper writing
 
@@ -178,7 +179,7 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 ## Conference Presentations
 
 **2026**
-- **[SEM Annual 2026](https://sem.org/annual)** (Norfolk, VA) — "RAFTcorr" | Jun 1-4
+- **[SEM Annual 2026](https://sem.org/annual)** (Norfolk, VA) — "RAFTcorr: An Open-Source, Deep Learning DIC Framework for Dense Displacement Measurement" | Jun 1-4
 
 **2025**
 - **[iDICs 2025](https://web.cvent.com/event/549f7a26-038b-4e57-955f-00d8bf0572d2/summary)** (Alexandria, VA) — "RAFTcorr: An Open-Source, Deep Learning DIC Framework for Dense Displacement Measurement" | Nov 4-6
