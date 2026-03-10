@@ -83,16 +83,6 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
   </tr>
   <tr>
     <td>
-      <strong><a href="https://doi.org/10.1088/1361-6501/ad8a44">Stereo Digital Image Correlation Using Binocular Super-Resolution</a></strong>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
-      <img src="https://img.shields.io/badge/Journal-Measurement_Science_&_Technology-blue?style=flat-square" />
-      <br/>
-      A novel stereo-DIC approach leveraging binocular super-resolution for enhanced measurement accuracy.
-    </td>
-  </tr>
-  <tr>
-    <td>
       <strong><a href="https://doi.org/10.1016/j.measurement.2023.113650">Refraction Error Analysis in Stereo Vision for System Parameters Optimization</a></strong>
       <br/>
       <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
@@ -119,6 +109,15 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
 
 <div align="center">
 
+### 3D-Stereo-ALDIC — 3D Full-field Deformation Measurement
+[![GitHub](https://img.shields.io/badge/GitHub-3D--Stereo--ALDIC-181717?style=flat-square&logo=github)](https://github.com/zachtong/3D-Stereo-ALDIC)
+
+Open-source stereo-DIC for high-accuracy 3D displacement measurement.
+
+<img src="image/stereo-ALDIC_demo.gif" width="700" alt="Stereo-ALDIC demonstration" />
+
+---
+
 ### RAFTcorr — Deep Learning DIC Framework
 [![GitHub](https://img.shields.io/badge/GitHub-RAFTcorr-181717?style=flat-square&logo=github)](https://github.com/zachtong/RAFTcorr)
 
@@ -130,12 +129,14 @@ The first fully open-source RAFT-based DIC framework with training pipeline, pre
 
 ---
 
-### 3D-Stereo-ALDIC — 3D Full-field Deformation Measurement
-[![GitHub](https://img.shields.io/badge/GitHub-3D--Stereo--ALDIC-181717?style=flat-square&logo=github)](https://github.com/zachtong/3D-Stereo-ALDIC)
+### DIC-ROI-Mask-Generator — Automated ROI Masking
+[![GitHub](https://img.shields.io/badge/GitHub-DIC--ROI--mask--generator-181717?style=flat-square&logo=github)](https://github.com/YangMechanicsGroupUTAustin/DIC-ROI-mask-generator)
 
-Open-source stereo-DIC for high-accuracy 3D displacement measurement.
+Automated ROI and mask generation tool for DIC analysis.
 
-<img src="image/stereo-ALDIC_demo.gif" width="700" alt="Stereo-ALDIC demonstration" />
+<!-- TODO: Add DIC-ROI-Mask-Generator GUI demo GIF here -->
+<!-- <img src="image/mask_generator_demo.gif" width="700" alt="DIC ROI Mask Generator GUI Demo" /> -->
+*GUI demo coming soon*
 
 ---
 
@@ -146,17 +147,6 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 
 <!-- TODO: Add Bubble-Radius-Fitting GUI demo GIF here -->
 <!-- <img src="image/bubble_fitting_demo.gif" width="700" alt="Bubble Radius Fitting GUI Demo" /> -->
-*GUI demo coming soon*
-
----
-
-### DIC-ROI-Mask-Generator — Automated ROI Masking
-[![GitHub](https://img.shields.io/badge/GitHub-DIC--ROI--mask--generator-181717?style=flat-square&logo=github)](https://github.com/YangMechanicsGroupUTAustin/DIC-ROI-mask-generator)
-
-Automated ROI and mask generation tool for DIC analysis.
-
-<!-- TODO: Add DIC-ROI-Mask-Generator GUI demo GIF here -->
-<!-- <img src="image/mask_generator_demo.gif" width="700" alt="DIC ROI Mask Generator GUI Demo" /> -->
 *GUI demo coming soon*
 
 </div>
