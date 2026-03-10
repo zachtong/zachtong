@@ -33,13 +33,6 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
 
 ---
 
-<div align="center">
-  <h3>Stereo-ALDIC: 3D Full-field Deformation Measurement</h3>
-  <img src="image/stereo-ALDIC_demo.gif" width="700" alt="Stereo-ALDIC demonstration showing 3D displacement field reconstruction" />
-</div>
-
----
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,40 +63,131 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
   </tr>
   <tr>
     <td>
+      <strong><a href="https://github.com/zachtong/RAFTcorr">RAFTcorr: An Open-Source, Deep Learning Digital Image Correlation Framework for Dense Displacement Measurement</a></strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Under_Review-orange?style=flat-square" />
+      <a href="https://github.com/zachtong/RAFTcorr"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" /></a>
+      <br/>
+      The first fully open-source RAFT-based DIC framework with a physically realistic training-data generation pipeline, pre-trained model weights, and a user-friendly GUI.
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong><a href="https://www.researchsquare.com/article/rs-5566473/v1">Machine Learning-Aided Spatial Adaptation for Improved DIC Analysis of Complex Geometries</a></strong>
       <br/>
-      <img src="https://img.shields.io/badge/Status-Preprint-orange?style=flat-square" />
-      <img src="https://img.shields.io/badge/Platform-Research_Square-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Journal-Strain-blue?style=flat-square" />
       <br/>
       A machine learning approach that automates region selection, mesh refinement, and subset splitting near complex sample edges for improved DIC analysis efficiency.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://doi.org/10.1088/1361-6501/ad8a44">Stereo Digital Image Correlation Using Binocular Super-Resolution</a></strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Journal-Measurement_Science_&_Technology-blue?style=flat-square" />
+      <br/>
+      A novel stereo-DIC approach leveraging binocular super-resolution for enhanced measurement accuracy.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://doi.org/10.1016/j.measurement.2023.113650">Refraction Error Analysis in Stereo Vision for System Parameters Optimization</a></strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Journal-Measurement_(Q1)-blue?style=flat-square" />
+      <br/>
+      Systematic analysis of refraction errors in stereo vision systems with optimization strategies for underwater and through-glass measurements.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://doi.org/10.1016/j.taml.2021.100287">Optimization of the Forearm Angle for Arm Wrestling Using Multi-Camera Stereo DIC</a></strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Journal-TAML_(Q1)-blue?style=flat-square" />
+      <br/>
+      Multi-camera stereo DIC applied to biomechanical optimization of arm wrestling technique — a fun intersection of sports science and measurement technology.
     </td>
   </tr>
 </table>
 
 ---
 
-## Open Source & Projects
+## Featured Projects
+
+<div align="center">
+
+### RAFTcorr — Deep Learning DIC Framework
+[![GitHub](https://img.shields.io/badge/GitHub-RAFTcorr-181717?style=flat-square&logo=github)](https://github.com/zachtong/RAFTcorr)
+
+The first fully open-source RAFT-based DIC framework with training pipeline, pre-trained weights, and GUI.
+
+<!-- TODO: Add RAFTcorr GUI demo GIF here -->
+<!-- <img src="image/RAFTcorr_demo.gif" width="700" alt="RAFTcorr GUI Demo" /> -->
+*GUI demo coming soon*
+
+---
+
+### 3D-Stereo-ALDIC — 3D Full-field Deformation Measurement
+[![GitHub](https://img.shields.io/badge/GitHub-3D--Stereo--ALDIC-181717?style=flat-square&logo=github)](https://github.com/zachtong/3D-Stereo-ALDIC)
+
+Open-source stereo-DIC for high-accuracy 3D displacement measurement.
+
+<img src="image/stereo-ALDIC_demo.gif" width="700" alt="Stereo-ALDIC demonstration" />
+
+---
+
+### Bubble-Radius-Fitting — High-Speed Cavitation Analysis
+[![GitHub](https://img.shields.io/badge/GitHub-Bubble--Radius--Fitting-181717?style=flat-square&logo=github)](https://github.com/zachtong/Bubble-Radius-Fitting)
+
+MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-speed cavitation imaging.
+
+<!-- TODO: Add Bubble-Radius-Fitting GUI demo GIF here -->
+<!-- <img src="image/bubble_fitting_demo.gif" width="700" alt="Bubble Radius Fitting GUI Demo" /> -->
+*GUI demo coming soon*
+
+---
+
+### DIC-ROI-Mask-Generator — Automated ROI Masking
+[![GitHub](https://img.shields.io/badge/GitHub-DIC--ROI--mask--generator-181717?style=flat-square&logo=github)](https://github.com/YangMechanicsGroupUTAustin/DIC-ROI-mask-generator)
+
+Automated ROI and mask generation tool for DIC analysis.
+
+<!-- TODO: Add DIC-ROI-Mask-Generator GUI demo GIF here -->
+<!-- <img src="image/mask_generator_demo.gif" width="700" alt="DIC ROI Mask Generator GUI Demo" /> -->
+*GUI demo coming soon*
+
+</div>
+
+---
+
+## More Open Source Tools
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**3D-Stereo-ALDIC**](https://github.com/zachtong/3D-Stereo-ALDIC) | Open-source stereo-DIC for 3D full-field deformation measurement | ![Released](https://img.shields.io/badge/-Released-success?style=flat-square) |
-| [**RAFTcorr**](https://github.com/zachtong/RAFTcorr) | Deep learning DIC framework for dense displacement measurement | ![In Dev](https://img.shields.io/badge/-In_Development-yellow?style=flat-square) |
 | [**RAFT-DVC**](https://github.com/zachtong/RAFT-DVC) | A DVC-tailored RAFT framework | ![In Dev](https://img.shields.io/badge/-In_Development-yellow?style=flat-square) |
 | [**STAQ-DIC-GUI**](https://github.com/zachtong/STAQ-DIC-GUI) | Refactored and optimized STAQ-DIC with a GUI | ![Released](https://img.shields.io/badge/-Released-success?style=flat-square) |
 | [**2D_ALDIC**](https://github.com/zachtong/2D_ALDIC) | AL-DIC combining advantages of Local Subset and Global DIC | ![Released](https://img.shields.io/badge/-Released-success?style=flat-square) |
 | [**ALDVC**](https://github.com/zachtong/ALDVC) | Adaptive Lagrangian Digital Volume Correlation | ![Released](https://img.shields.io/badge/-Released-success?style=flat-square) |
 | [**STAQ-DIC**](https://github.com/zachtong/STAQ-DIC) | Spatiotemporally Adaptive Quadtree Mesh DIC for large deformations | ![Released](https://img.shields.io/badge/-Released-success?style=flat-square) |
 | [**3D_DVC_Dataset_Generator**](https://github.com/zachtong/3D_DVC_Dataset_Generator) | Synthetic DVC dataset generator | ![Released](https://img.shields.io/badge/-Released-success?style=flat-square) |
-| [**OpenCorr**](https://github.com/zachtong/OpenCorr) | C++ library for DIC/DVC development | ![Released](https://img.shields.io/badge/-Released-success?style=flat-square) |
 
-**Ongoing Challenges:**
+---
+
+## Ongoing Research
+
+- **ML-DIC** — Developing a machine learning-based DIC method (current main research focus)
 - [**Stereo-DIC Challenge 2.0**](https://idics.org/challenge/) — Participating with 3D-ALDIC method
 - [**DVC Challenge 2.0**](https://idics.org/challenge/) — Serving as assistant for coordination, data organization, and paper writing
-- **ML-DIC** — Developing a machine learning-based DIC method
 
 ---
 
 ## Conference Presentations
+
+**2026**
+- **[SEM Annual 2026](https://sem.org/annual)** (Norfolk, VA) — "RAFTcorr" | Jun 1-4
 
 **2025**
 - **[iDICs 2025](https://web.cvent.com/event/549f7a26-038b-4e57-955f-00d8bf0572d2/summary)** (Alexandria, VA) — "RAFTcorr: An Open-Source, Deep Learning DIC Framework for Dense Displacement Measurement" | Nov 4-6
@@ -119,15 +203,6 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
 - **[Southern SEM Student Symposium 2024](https://sem.org/annual)** (Baton Rouge, LA) — "Exploring the Interplay of Alveolar Mechanics and Fluid Accumulation in Pulmonary Edema: Insights from Soft Metamaterial 3D Printing and Mechanical Testing" | May 12
 
 </details>
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zachtong&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtong&layout=compact&theme=default&hide_border=true" height="170" alt="Top Languages" />
-</div>
 
 ---
 
