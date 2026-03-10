@@ -169,6 +169,7 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 - **ML-DIC** — Developing a machine learning-based DIC method (current main research focus)
 - **Fracture Mechanics + DIC** — Integrating DIC with fracture mechanics for crack characterization
 - **Finite Element Simulation** — Computational modeling with Abaqus and COMSOL Multiphysics
+- [**iDICs Good Practices Guide (Edition 2)**](https://idics.org/guide/) — Contributing author to the community-driven DIC best practices guide
 - [**Stereo-DIC Challenge 2.0**](https://idics.org/challenge/) — Participating with 3D-ALDIC method
 - [**DVC Challenge 2.0**](https://idics.org/challenge/) — Serving as assistant for coordination, data organization, and paper writing
 
