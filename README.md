@@ -73,7 +73,7 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
   </tr>
   <tr>
     <td>
-      <strong><a href="https://www.researchsquare.com/article/rs-5566473/v1">Machine Learning-Aided Spatial Adaptation for Improved DIC Analysis of Complex Geometries</a></strong>
+      <strong><a href="https://onlinelibrary.wiley.com/doi/10.1111/str.70022">Machine Learning-Aided Spatial Adaptation for Improved DIC Analysis of Complex Geometries</a></strong>
       <br/>
       <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
       <img src="https://img.shields.io/badge/Journal-Strain-blue?style=flat-square" />
