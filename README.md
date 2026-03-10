@@ -199,7 +199,7 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 <details>
 <summary>Click here for a productivity boost</summary>
 <br/>
-<img src="image/IMG_9379.JPG" width="350" alt="My cat enjoying the view" />
+<img src="image/cat2.jpg" width="350" alt="My cat enjoying the view" />
 <br/>
 <em>Peer reviewer #2 taking a break</em>
 </details>
