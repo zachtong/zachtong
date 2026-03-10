@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BF5700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zixiang+Tong+(Zach)+%F0%9F%91%8B;PhD+Student+%40+UT+Austin;Digital+Image+Correlation+%7C+Machine+Learning;Building+Open-Source+Research+Tools" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BF5700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zixiang+Tong+(Zach)+%F0%9F%91%8B;PhD+Student+%40+UT+Austin;DIC%2FDVC+%7C+Machine+Learning;Building+Open-Source+Research+Tools" alt="Typing SVG" /></a>
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6xlr4lsAAAAJ&hl=zh-CN&authuser=1)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zixiang-Tong)
