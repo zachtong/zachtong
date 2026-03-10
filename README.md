@@ -21,7 +21,9 @@
 
 My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** under extremely challenging conditions — complex geometry, large deformation, and biological tissues. I combine **Machine Learning** and **Computer Vision** to build open-source tools that make high-accuracy deformation measurement accessible to the experimental mechanics community.
 
-*When I'm not correlating pixels, I'm hanging out with my ragdoll cats* :point_right:
+*When I'm not correlating pixels, I'm hanging out with my Siamese cats* :point_right:
+
+:globe_with_meridians: [**zachtong.github.io**](https://zachtong.github.io/)
 
    </td>
     <td width="35%" align="center">
