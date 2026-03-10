@@ -44,6 +44,8 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Abaqus](https://img.shields.io/badge/Abaqus-005386?style=for-the-badge&logoColor=white)
+![COMSOL](https://img.shields.io/badge/COMSOL-368CCB?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -165,6 +167,7 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 
 - **ML-DIC** — Developing a machine learning-based DIC method (current main research focus)
 - **Fracture Mechanics + DIC** — Integrating DIC with fracture mechanics for crack characterization
+- **Finite Element Simulation** — Computational modeling with Abaqus and COMSOL Multiphysics
 - [**Stereo-DIC Challenge 2.0**](https://idics.org/challenge/) — Participating with 3D-ALDIC method
 - [**DVC Challenge 2.0**](https://idics.org/challenge/) — Serving as assistant for coordination, data organization, and paper writing
 
