@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zixiang-tong-0606ba29a/)
 [![Email](https://img.shields.io/badge/Email-zachtong%40utexas.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zachtong@utexas.edu)
 [![CV](https://img.shields.io/badge/CV-Download_PDF-BF5700?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/zachtong/zachtong/blob/main/CV_ZixiangTong.pdf)
+[![Website](https://img.shields.io/badge/Website-zachtong.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://zachtong.github.io/)
 
 </div>
 
@@ -16,7 +17,7 @@
   <tr>
     <td width="65%">
 
-**PhD student in Engineering Mechanics** at [The University of Texas at Austin](https://sites.utexas.edu/yang/), working in the Yang Research Group.
+**PhD student in Engineering Mechanics** at The University of Texas at Austin, working in the [Yang Research Group](https://sites.utexas.edu/yang/).
 
 My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** under extremely challenging conditions — complex geometry, large deformation, and biological tissues. I combine **Machine Learning** and **Computer Vision** to build open-source tools that make high-accuracy deformation measurement accessible to the experimental mechanics community.
 
