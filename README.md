@@ -124,9 +124,7 @@ Open-source stereo-DIC for high-accuracy 3D displacement measurement.
 
 The first fully open-source RAFT-based DIC framework with training pipeline, pre-trained weights, and GUI.
 
-<!-- TODO: Add RAFTcorr GUI demo GIF here -->
-<!-- <img src="image/RAFTcorr_demo.gif" width="700" alt="RAFTcorr GUI Demo" /> -->
-*GUI demo coming soon*
+<img src="image/raftcorr_cavitation.gif" width="700" alt="RAFTcorr GUI Demo" />
 
 ---
 
@@ -135,9 +133,7 @@ The first fully open-source RAFT-based DIC framework with training pipeline, pre
 
 Automated ROI and mask generation tool for DIC analysis.
 
-<!-- TODO: Add DIC-ROI-Mask-Generator GUI demo GIF here -->
-<!-- <img src="image/mask_generator_demo.gif" width="700" alt="DIC ROI Mask Generator GUI Demo" /> -->
-*GUI demo coming soon*
+<img src="image/mask_generator.gif" width="700" alt="DIC ROI Mask Generator GUI Demo" />
 
 ---
 
@@ -146,9 +142,7 @@ Automated ROI and mask generation tool for DIC analysis.
 
 MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-speed cavitation imaging.
 
-<!-- TODO: Add Bubble-Radius-Fitting GUI demo GIF here -->
-<!-- <img src="image/bubble_fitting_demo.gif" width="700" alt="Bubble Radius Fitting GUI Demo" /> -->
-*GUI demo coming soon*
+<img src="image/Bubble_radius_fitting.gif" width="700" alt="Bubble Radius Fitting GUI Demo" />
 
 </div>
 
