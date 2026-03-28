@@ -126,6 +126,7 @@ Open-source stereo-DIC for high-accuracy 3D displacement measurement.
 
 ### RAFTcorr — Deep Learning DIC Framework
 [![GitHub](https://img.shields.io/badge/GitHub-RAFTcorr-181717?style=flat-square&logo=github)](https://github.com/zachtong/RAFTcorr)
+[![Project Page](https://img.shields.io/badge/Project_Page-BF5700?style=flat-square&logo=safari&logoColor=white)](https://zachtong.github.io/raftcorr-web/)
 
 The first fully open-source RAFT-based DIC framework with training pipeline, pre-trained weights, and GUI.
 
@@ -144,6 +145,7 @@ Automated ROI and mask generation tool for DIC analysis.
 
 ### Bubble-Radius-Fitting — High-Speed Cavitation Analysis
 [![GitHub](https://img.shields.io/badge/GitHub-Bubble--Radius--Fitting-181717?style=flat-square&logo=github)](https://github.com/zachtong/Bubble-Radius-Fitting)
+[![Project Page](https://img.shields.io/badge/Project_Page-BF5700?style=flat-square&logo=safari&logoColor=white)](https://zachtong.github.io/Bubble-Radius-Fitting/v3-highlights.html)
 
 MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-speed cavitation imaging.
 
