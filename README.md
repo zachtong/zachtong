@@ -82,7 +82,7 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
       <br/>
       <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
       <img src="https://img.shields.io/badge/Journal-Strain-blue?style=flat-square" />
-      <a href="https://github.com/YangMechanicsGroupUTAustin/DIC-ROI-mask-generator"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" /></a>
+      <a href="https://github.com/zachtong/DIC-ROI-mask-generator"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" /></a>
       <br/>
       A machine learning approach that automates region selection, mesh refinement, and subset splitting near complex sample edges for improved DIC analysis efficiency.
     </td>
@@ -135,7 +135,7 @@ The first fully open-source RAFT-based DIC framework with training pipeline, pre
 ---
 
 ### DIC-ROI-Mask-Generator — Automated ROI Masking
-[![GitHub](https://img.shields.io/badge/GitHub-DIC--ROI--mask--generator-181717?style=flat-square&logo=github)](https://github.com/YangMechanicsGroupUTAustin/DIC-ROI-mask-generator)
+[![GitHub](https://img.shields.io/badge/GitHub-DIC--ROI--mask--generator-181717?style=flat-square&logo=github)](https://github.com/zachtong/DIC-ROI-mask-generator)
 
 Automated ROI and mask generation tool for DIC analysis.
 
