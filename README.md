@@ -136,6 +136,7 @@ The first fully open-source RAFT-based DIC framework with training pipeline, pre
 
 ### DIC-ROI-Mask-Generator — Automated ROI Masking
 [![GitHub](https://img.shields.io/badge/GitHub-DIC--ROI--mask--generator-181717?style=flat-square&logo=github)](https://github.com/zachtong/DIC-ROI-mask-generator)
+[![Project Page](https://img.shields.io/badge/Project_Page-BF5700?style=flat-square&logo=safari&logoColor=white)](https://zachtong.github.io/DIC-ROI-mask-generator/)
 
 Automated ROI and mask generation tool for DIC analysis.
 
