@@ -149,7 +149,7 @@ Automated ROI and mask generation tool for DIC analysis.
 
 MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-speed cavitation imaging.
 
-<img src="image/Bubble_radius_fitting.gif" width="700" alt="Bubble Radius Fitting GUI Demo" />
+<img src="image/cav_new.gif" width="700" alt="Bubble Radius Fitting GUI Demo" />
 
 </div>
 
