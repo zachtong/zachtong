@@ -57,6 +57,17 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
 <table>
   <tr>
     <td>
+      <strong><a href="https://github.com/zachtong/pyALDIC">pyALDIC: A Python Framework for 2D Augmented Lagrangian Digital Image Correlation with Adaptive Quadtree Mesh and Desktop GUI</a></strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-In_Preparation-orange?style=flat-square" />
+      <a href="https://github.com/zachtong/pyALDIC"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" /></a>
+      <a href="https://pypi.org/project/al-dic/"><img src="https://img.shields.io/badge/PyPI-al--dic-3775A9?style=flat-square&logo=pypi&logoColor=white" /></a>
+      <br/>
+      A fully open-source Python port of AL-DIC with an integrated desktop GUI, quadtree-refined meshes, starting-point propagation for large-displacement and discontinuous fields, and dual Local-DIC / AL-DIC solvers — pip-installable and ready for experimental mechanics workflows.
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong><a href="https://doi.org/10.1007/s11340-025-01225-7">3D-ALDIC: Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation</a></strong>
       <br/>
       <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
@@ -114,6 +125,16 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
 ## Featured Projects
 
 <div align="center">
+
+### pyALDIC — 2D AL-DIC in Python with Desktop GUI
+[![GitHub](https://img.shields.io/badge/GitHub-pyALDIC-181717?style=flat-square&logo=github)](https://github.com/zachtong/pyALDIC)
+[![PyPI](https://img.shields.io/badge/PyPI-al--dic-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/al-dic/)
+
+Pip-installable 2D Augmented Lagrangian DIC with quadtree mesh refinement, starting-point propagation for large-displacement / discontinuous fields, and a full desktop GUI — load images, draw ROIs, and run a complete DIC analysis without writing a line of code.
+
+<img src="image/pyaldic_seed_propagation.gif" width="700" alt="pyALDIC starting-point propagation — BFS wave expanding from a user-placed point around a cracked specimen" />
+
+---
 
 ### 3D-Stereo-ALDIC — 3D Full-field Deformation Measurement
 [![GitHub](https://img.shields.io/badge/GitHub-3D--Stereo--ALDIC-181717?style=flat-square&logo=github)](https://github.com/zachtong/3D-Stereo-ALDIC)
