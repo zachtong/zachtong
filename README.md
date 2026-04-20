@@ -132,7 +132,7 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
 
 Pip-installable 2D Augmented Lagrangian DIC with quadtree mesh refinement, starting-point propagation for large-displacement / discontinuous fields, and a full desktop GUI — load images, draw ROIs, and run a complete DIC analysis without writing a line of code.
 
-<img src="image/pyaldic_seed_propagation.gif" width="700" alt="pyALDIC starting-point propagation — BFS wave expanding from a user-placed point around a cracked specimen" />
+<img src="image/pyaldic_demo.gif" width="700" alt="pyALDIC end-to-end desktop GUI walkthrough — import images, pick workflow, draw ROI, refine mesh, run DIC, inspect displacement and strain fields" />
 
 ---
 
