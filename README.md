@@ -17,7 +17,7 @@
   <tr>
     <td width="65%">
 
-**PhD student in Engineering Mechanics** at The University of Texas at Austin, working in the [Yang Research Group](https://sites.utexas.edu/yang/).
+**PhD candidate in Engineering Mechanics** at The University of Texas at Austin, working in the [Yang Research Group](https://sites.utexas.edu/yang/).
 
 My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** under extremely challenging conditions — complex geometry, large deformation, and biological tissues. I combine **Machine Learning** and **Computer Vision** to build open-source tools that make high-accuracy deformation measurement accessible to the experimental mechanics community.
 
