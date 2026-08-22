@@ -1,0 +1,40 @@
+# ---------------------------------------------------------------------------
+# .gitignore for zachtong/zachtong (GitHub profile README repository)
+#
+# Note: this repo is also built and deployed by
+# .github/workflows/jekyll-gh-pages.yml, so anything committed here is
+# published. Keep local tooling state and backups out.
+# ---------------------------------------------------------------------------
+
+# Local AI / editor tooling state. Not part of the public profile.
+.claude/
+.playwright-mcp/
+.vscode/
+.idea/
+
+# Timestamped local backups. Kept on disk, never published.
+*.bak
+*.bak_*
+*.orig
+*~
+
+# Jekyll build output, in case the site is ever built locally.
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
+
+# OS and cloud-sync junk.
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------------------
+# Optional: CLAUDE.md holds a personal profile used to brief AI assistants.
+# Everything in it is already public (position, publications, contact), but
+# uncomment the line below to keep it out of the public repository.
+# ---------------------------------------------------------------------------
+# CLAUDE.md

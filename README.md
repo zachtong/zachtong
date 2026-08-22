@@ -223,6 +223,16 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" alt="Zixiang Tong's GitHub statistics" src="https://github-readme-stats-fast.vercel.app/api?username=zachtong&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&bg_color=00000000&title_color=BF5700&icon_color=BF5700&text_color=768390" />
+
+</div>
+
+---
+
 <div align="center">
 
 *Thanks for visiting! Feel free to explore my projects and reach out if you're interested in collaborating.*
