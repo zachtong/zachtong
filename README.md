@@ -117,6 +117,19 @@ My research focuses on advancing **Digital Image/Volume Correlation (DIC/DVC)** 
   </tr>
   <tr>
     <td>
+      <strong><a href="https://doi.org/10.21203/rs.3.rs-9683321/v1">Digital Volume Correlation Challenge 2.0: A Comprehensive Dataset for Digital Volume Correlation Benchmarking</a></strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Preprint-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/First_author-6E5494?style=flat-square" />
+      <a href="https://doi.org/10.21203/rs.3.rs-9683321/v1"><img src="https://img.shields.io/badge/DOI-10.21203%2Frs.3.rs--9683321-1682D4?style=flat-square" /></a>
+      <a href="https://www.nist.gov/publications/digital-volume-correlation-challenge-20-comprehensive-dataset-digital-volume"><img src="https://img.shields.io/badge/NIST-Publication-004795?style=flat-square" /></a>
+      <a href="https://data.nist.gov/pdr/lps/ark:/88434/mds2-4129"><img src="https://img.shields.io/badge/Dataset-NIST_PDR-004795?style=flat-square" /></a>
+      <br/>
+      The iDICs community benchmark for DVC: an openly available repository of volumetric image pairs and series contributed by groups worldwide, spanning confocal and multiphoton microscopy, X-ray and neutron tomography, and synthetic volumes, with complex deformation fields, poor image quality, and anisotropic or sparse speckle patterns, all compiled into one uniform format.
+    </td>
+  </tr>
+  <tr>
+    <td>
       <strong><a href="https://doi.org/10.1007/s11340-025-01225-7">3D-ALDIC: Stereo Adaptive Mesh Augmented Lagrangian Digital Image Correlation</a></strong>
       <br/>
       <img src="https://img.shields.io/badge/Status-Published-success?style=flat-square" />
@@ -261,7 +274,7 @@ MATLAB-based GUI for bubble radius fitting in complex-background ultra-high-spee
 - **Fracture Mechanics + DIC** — Integrating DIC with fracture mechanics for crack characterization
 - [**iDICs Good Practices Guide (Edition 2)**](https://idics.org/guide/) — Contributing author to the community-driven DIC best practices guide
 - [**Stereo-DIC Challenge 2.0**](https://idics.org/challenge/) — Participating with 3D-ALDIC method
-- [**DVC Challenge 2.0**](https://idics.org/challenge/) — Serving as assistant for coordination, data organization, and paper writing
+- [**DVC Challenge 2.0**](https://idics.org/challenge/) — Lead author of the benchmark dataset paper, and coordinator for data organization across the contributing groups
 
 ---
 
