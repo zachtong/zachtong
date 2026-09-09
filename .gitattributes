@@ -1,0 +1,14 @@
+# Normalize every text file to LF in the repository.
+# Without this, editing from Windows (this tree is synced through OneDrive)
+# rewrites whole files with CRLF and every commit shows the whole file
+# changed with no content change.
+* text=auto eol=lf
+
+# Binary assets: never touch these.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.pdf binary
+*.ico binary
