@@ -194,7 +194,7 @@ Turns a sequence of 3D scans (micro-CT, confocal, MRI, OCT) into displacement an
 
 Two-camera stereo-DIC in one desktop application: built-in calibration with a coded circular target detector, AL-DIC temporal tracking on an adaptive quadtree mesh, metric 3D shape and Green-Lagrange surface strain in millimetres, and a re-verification gate that re-derives the correlation of every shipped displacement rather than trusting the solver's own convergence flag.
 
-<img src="image/pyaldic3d_surface_orbit.gif" width="520" alt="pyALDIC-3D orbiting the reconstructed 3D surface of an indentation, coloured by out-of-plane displacement W in millimetres" />
+<img src="image/pyaldic3d_main_gui.png" width="700" alt="pyALDIC-3D desktop application: stereo image pairs and the calibration panel on the left, the out-of-plane displacement field W in millimetres rendered on the specimen in the centre, and run controls with the per-frame validity log on the right" />
 
 ---
 
